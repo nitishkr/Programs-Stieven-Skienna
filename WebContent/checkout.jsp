@@ -9,7 +9,7 @@
 <script type="text/javascript">
 function addRow(prid,prname,price,val)
 {
-	
+	//asdasdad
 	//dfghhhe
          if (!document.getElementsByTagName) return;
          tabBody=document.getElementsByTagName("tbody").item(1);
